@@ -91,31 +91,26 @@
 
 <br/>  
 
+# 📊 GitHub Stats:
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Arnabdaz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" align="center" style="width: 50%" /></div>  
+<br/>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Arnabdaz&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 75%" /></div>  
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnabdaz&theme=tokyonight&hide_border=true" align="center" /></div>  
+<br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnabdaz&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnabdaz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Arnabdaz&&style=flat-square" align="center" />
-</div>  
-  
+## 🏆 GitHub Trophies
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Arnabdaz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" align="center" /></div>  
 
 <br/>  
 
+<div align="center"><img src="https://visitcount.itsvg.in/api?id=Arnabdaz&icon=9&color=6" align="center" /></div>  
 
-<br />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 Arnabdaz/Arnabdaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
