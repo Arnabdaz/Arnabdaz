@@ -2,8 +2,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
 </div>  
 
+<br/>
 
 ### <div align="center">I'm Arnab, a full-time full-stack developer 👨‍💻 learning new technologies everyday 🚀</div>
+
+<br/>
 
 - 🔭 I’m currently working on Open-source projects
 
