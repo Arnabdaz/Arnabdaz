@@ -4,7 +4,7 @@
 
 <br/>
 
-### <div align="center">I'm Arnab, a full-time full-stack developer 👨‍💻 learning new technologies everyday 🚀</div>
+### <div align="center">I'm Arnab, a full-stack developer 👨‍💻 learning new technologies everyday 🚀</div>
 
 <br/>
 
