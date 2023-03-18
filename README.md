@@ -40,13 +40,13 @@
 ### Backend
 
 <div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="60" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="60" /></a>  
-<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" height="60" /></a>   
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="60" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/96580571/226129855-05044b76-a35f-4476-b8ae-64b85b808794.png" alt="Node.js" height="60" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/96580571/226129583-1a23b263-f3f6-440b-baba-b02a837358da.png" alt="Express.js" height="60" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="60" /></a>
+<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" height="60" /></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="60" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -58,7 +58,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" height="60" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="60" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/96580571/226129670-378ea8db-6cdb-4738-805b-ce066b12a7b5.png" alt="Bash" height="60" /></a>  
 </div>
 
 </td></tr></table>
