@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Open-source projects
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Nuxt.js 
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
