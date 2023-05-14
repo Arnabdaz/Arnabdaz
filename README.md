@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
+<img src="https://media.tenor.com/6xxmTQ_LleUAAAAC/peepo-hello.gif" align="center"/>
 </div>  
 
 <br/>
 
-### <div align="center">I'm Arnab, a full-stack developer 👨‍💻 learning new technologies everyday 🚀</div>
+### <div align="center">Hi, I'm Arnab, a full-stack developer 👨‍💻 learning new technologies everyday 🚀</div>
 
 <br/>
 
