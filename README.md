@@ -100,6 +100,10 @@
 
 <br/>
 
+## 🔝 Top Contributed Repo
+
+<div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=Arnabdaz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" align="center" /></div>
+
 ## 🏆 GitHub Trophies
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Arnabdaz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" align="center" /></div>
